@@ -68,10 +68,6 @@ Once reports are generated, they will be available for download in .md format:
 - **EXASearchTool**: Tool for searching relevant datasets on Kaggle, HuggingFace, and GitHub.
 - **Streamlit**: Frontend for user interaction and report generation.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Notes
