@@ -57,7 +57,7 @@ This will launch the Streamlit app in your browser where you can input a company
 
 ### Reports
 
-Once reports are generated, they will be available for download in three formats:
+Once reports are generated, they will be available for download in .md format:
 1. **Research Report**: Insights into the company’s vision, offerings, and industry trends.
 2. **Use Case Report**: Proposed AI/ML use cases for improving operations and customer satisfaction.
 3. **Resource Report**: Dataset links and proposed GenAI solutions.
@@ -78,6 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Ensure the API keys are valid and added to the `.env` file.
 - The system leverages the powerful LLM models and external datasets for the analysis and recommendation process.
-```
-
-Let me know if you'd like any modifications!
