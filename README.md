@@ -74,3 +74,8 @@ Once reports are generated, they will be available for download in .md format:
 
 - Ensure the API keys are valid and added to the `.env` file.
 - The system leverages the powerful LLM models and external datasets for the analysis and recommendation process.
+
+### Links
+Hosted on render: [Hosted Website](https://company-analysis-using-multiagents.onrender.com/)
+
+Demo: [Video Demo](https://drive.google.com/file/d/1_TZJH-w2-Lb1k39O_c-PFnydKOpw7C-a/view?usp=sharing)
